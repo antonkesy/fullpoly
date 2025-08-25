@@ -3,4 +3,3 @@
   (flags (:standard -warn-error -a)))  ; disables warnings-as-errors in dev
  (release
   (flags (:standard))))                ; release uses standard flags
-
